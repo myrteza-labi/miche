@@ -1,0 +1,24 @@
+
+.Article {
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    width: 700px; 
+}
+
+.articleImgCtn{
+
+    margin-bottom: 10px; 
+}
+.articleTitle {
+    margin-bottom: 10px; 
+}
+
+.articleText {
+    margin-bottom: 45px;
+}
+
+.articleText {
+    line-height: 25px; 
+}

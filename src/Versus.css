@@ -1,0 +1,10 @@
+.oneVersusContainer{
+    display: flex; 
+    flex-direction: row; 
+    justify-content: center; 
+    align-items: center; 
+}
+
+.imgTeam {
+    width: 100px; 
+}
